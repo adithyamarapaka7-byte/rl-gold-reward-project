@@ -27,5 +27,15 @@ The temperature bonus is 1 if a sentence contains a numeric word and 0 otherwise
 ## Limitation
 The reference model samples word transitions from the corpus. The basic implementation calculates reward scores but does not train a reinforcement learning policy.
 
+## Live Website
+
+Visit the published GoldReward AI demonstration:
+
+[Open GoldReward AI Website](https://goldrewardai.lovable.app)
+
+## Project Notebook
+
+The Python experiment is available in the Jupyter Notebook uploaded to this repository.
+
 ## Conclusion
 This experiment demonstrates how a reward function can evaluate short weather reports according to specified criteria.
